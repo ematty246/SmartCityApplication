@@ -1,4 +1,4 @@
-# 🌆 Smart City Complaint Management System
+# 🌆 Smart City Complaint Management System  
 
 > A **Java-based desktop + web-integrated application** to manage and resolve public complaints efficiently — built as part of a *6-day Java Programming Course* at **Ethnotech Lab**.
 
